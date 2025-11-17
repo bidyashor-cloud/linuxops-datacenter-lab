@@ -1,0 +1,2 @@
+# I scheduled my health-check script to run every 15 minutes
+*/15 * * * * root /opt/datacenter/scripts/datacenter-healthcheck.sh
